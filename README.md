@@ -1,4 +1,4 @@
-# Quantumhunts
+# Task 1
 # Drag-and-Drop Student Sort UI
 
 ## Overview
